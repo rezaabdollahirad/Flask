@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5807e43-6b71-49c5-b8a4-1984c1d6aa87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Website.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/route.py" afterDir="false" />
-    </list>
+    <list default="true" id="f5807e43-6b71-49c5-b8a4-1984c1d6aa87" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +63,7 @@
       <workItem from="1738853957529" duration="333000" />
       <workItem from="1738859775203" duration="187000" />
       <workItem from="1739051689457" duration="15274000" />
-      <workItem from="1739124374154" duration="1516000" />
+      <workItem from="1739124374154" duration="1900000" />
     </task>
     <servers />
   </component>
